@@ -1,7 +1,7 @@
 import streamlit as st
 from openai import OpenAI
 
-f = open('C:/projects/Innomatics/Backend_sessions/GenAi_app/.OPENAI_API_KEY.txt')
+f = open(r'D:\Innomatics\Code Reviewer\.OPENAI_API_KEY.txt')
 OPENAI_API_KEY = f.read()
 
 st.title("Code Reviewer")
