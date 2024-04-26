@@ -12,20 +12,16 @@ This web application is designed to assist developers in reviewing their Python 
 ## Installation
 
 1. Clone the repository:
-
-    git clone https://github.com/your_username/code-reviewer.git
+    
+    git clone https://github.com/Azay961/GenAi_app.git
 
 2. Navigate to the project directory:
 
-    ```bash
     cd code-reviewer
-    ```
 
 3. Install the required dependencies:
 
-    ```bash
     pip install -r requirements.txt
-    ```
 
 ## Usage
 
